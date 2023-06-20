@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jiangph1001
-- 👀 Working in JD Cloud, participating in the development of virtual machine and native container cluster
-- 📫 email: jiangph1001@qq.com   wechat:jiangph2014
+- 👀 Working in JD.
+- 📫 email: jiangph1001@qq.com
+- wechat:jiangph2014
 - 
 
 <!---
